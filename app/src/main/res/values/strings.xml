@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SumaResta</string>
+
+    <string name="message_result">Result</string>
+    <string name="number1">Insert Number one</string>
+    <string name="Number2">Insert Number two</string>
+    <string name="Button">OK</string>
+    <string name="Check_sum">SUM</string>
+    <string name="Check_Subtraction">Subtraction</string>
+    <string name="Check_Multiplication">Multiplication</string>
+    <string name="Check_Division">Division</string>
+
+
+</resources>
